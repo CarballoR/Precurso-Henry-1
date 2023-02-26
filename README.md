@@ -1,2 +1,1 @@
-# Precurso-Henry-1
-modulo 2
+este proyecto es una prueba de como crear un repositorio en la nube y clonarlo en el repositorio local
